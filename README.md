@@ -1,7 +1,1 @@
-# e-com
-It's my first e-commerce site
-
-#adavidj
-#davidaidasso
-
-#davecode
+#Site e-comm David Web HTML CSS JS 
